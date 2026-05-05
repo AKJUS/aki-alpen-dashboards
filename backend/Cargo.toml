@@ -10,7 +10,7 @@
   clap = { version = "4.5", features = [ "derive" ] }
   hex = { version = "0.4" }
   jsonrpsee = { version = "0.24", features = [ "http-client" ] }
-  reqwest = { version = "0.13.2", features = [ "json" ] }
+  reqwest = { version = "0.13.3", features = [ "json" ] }
   serde = { version = "1", features = [ "derive" ] }
   serde_json = { version = "1.0", default-features = false, features = [
     "alloc",
