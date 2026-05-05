@@ -20,7 +20,7 @@
   toml = { version = "1.1.0" }
   tower-http = { version = "0.6", features = [ "cors" ] }
   tracing = { version = "0.1" }
-  tracing-subscriber = { version = "0.3.22", features = [ "env-filter" ] }
+  tracing-subscriber = { version = "0.3.23", features = [ "env-filter" ] }
 
   strata-bridge-primitives = { git = "https://github.com/alpenlabs/strata-bridge.git", tag = "v0.2.0-rc3" }
   strata-bridge-rpc = { git = "https://github.com/alpenlabs/strata-bridge.git", features = [
