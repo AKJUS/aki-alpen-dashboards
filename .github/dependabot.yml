@@ -7,7 +7,7 @@ updates:
       interval: "monthly"
     # Cooldown
     cooldown:
-      default-days: 5
+      default-days: 7
     open-pull-requests-limit: 10
 
   # Enable version updates for GitHub Actions
@@ -17,7 +17,7 @@ updates:
       interval: "monthly"
     # Cooldown
     cooldown:
-      default-days: 5
+      default-days: 7
     open-pull-requests-limit: 10
 
   # Enable version updates for npm
@@ -27,5 +27,5 @@ updates:
       interval: "monthly"
     # Cooldown
     cooldown:
-      default-days: 5
+      default-days: 7
     open-pull-requests-limit: 10
